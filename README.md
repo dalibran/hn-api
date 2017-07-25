@@ -10,7 +10,7 @@ This is a Hacker News API clone built as a tutorial for learning GraphQL. I foll
 1. Clone the Repo onto your Local Machine
 
 ```zsh
-git clone git@github.com:dalibran/personalv3.git
+git clone git@github.com:dalibran/hn-api.git
 ```
 
 2. Navigate to the Project Directory and Install Relevant Gems
