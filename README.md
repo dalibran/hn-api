@@ -3,7 +3,7 @@
 ![Rails](https://dl.dropboxusercontent.com/u/10661713/rails.svg)
 ![GraphQL](https://dl.dropboxusercontent.com/u/10661713/graphql.svg)
 
-This is a Hacker News API clone built as a tutorial for learning GraphQL. I followed the Rails track on ![How to GraphQL](https://www.howtographql.com). Through this tutorial I defined a GraphQL schema, connected various types, wrote mutations to create and edit data, and I built complex queries. In addition, several of the resolver functions are covered with unit tests.
+This is a Hacker News API clone built as a tutorial for learning GraphQL. I followed the Rails track on [How to GraphQL](https://www.howtographql.com). Through this tutorial I defined a GraphQL schema, connected various types, wrote mutations to create and edit data, and I built complex queries. In addition, several of the resolver functions are covered with unit tests.
 
 <h3>Development</h3>
 
