@@ -1,5 +1,6 @@
 ![Rails](https://dl.dropboxusercontent.com/u/10661713/rails.svg)
 ![GraphQL](http://graphql.org/img/logo.svg){:height="64px" width="64px"}
+<img src="http://graphql.org/img/logo.svg" alt="graphql" width="64px" height="64px">
 
 <h1> Hacker News Clone API</h1>
 
