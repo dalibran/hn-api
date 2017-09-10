@@ -1,5 +1,5 @@
 ![Rails](https://dl.dropboxusercontent.com/u/10661713/rails.svg)
-![GraphQL](https://dl.dropboxusercontent.com/u/10661713/graphql.svg)
+![GraphQL](https://www.dropbox.com/s/dgd5kzlpe7dilvp/graphql.svg?dl=0)
 
 <h1> Hacker News Clone API</h1>
 
